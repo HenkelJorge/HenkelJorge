@@ -1,7 +1,7 @@
 - 👋 Olá,sou Jorge Henkel,estudante de programação;
 - 👀 estou interessado em aprender por meio de práticas e execução de projetos;
 - 🌱 atualmente estudando PHP,Mysql workbench,CSS,HTML,JavaScript, entres outras linguagens de software; 
-- 💞️ Estou colaborando atualmente um projeto escolar de uma confeitaria voltada para a confecção de bolos temáticos personalizados;
+- 💞️ Estou colaborando atualmente um projeto escolar de um booking de hoteis;
 - 📫 Contato Email:(jrghnkl@gmail.com),Whatsapp(+55 21988565797).
 
 <!---
